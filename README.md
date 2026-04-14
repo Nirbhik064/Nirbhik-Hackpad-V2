@@ -19,3 +19,5 @@ The parts that are used in this project are;
 5. 16x white blank DSA keycaps
 6. 4x M3x16mm screws
 7. 4x M3x5mx4mm heatset inserts.
+8. And, finally a 3d printed case that is designed by me!
+
