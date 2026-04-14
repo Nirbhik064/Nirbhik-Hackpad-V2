@@ -10,6 +10,7 @@ the image of the macropad, <img width="715" height="513" alt="image" src="https:
 The image of the PCB is here, <img width="437" height="544" alt="image" src="https://github.com/user-attachments/assets/fc32f3f8-4f28-4061-8efd-0e7fec3f3052" />
 The Schematics of the Macropad is, <img width="1027" height="589" alt="image" src="https://github.com/user-attachments/assets/dbcd9df1-3e57-432f-a233-2bbde5e19714" />
 The image of the 3d view is here, <img width="425" height="577" alt="image" src="https://github.com/user-attachments/assets/c31a3ab6-268f-47a5-85c4-a0fe6cf326e9" />
+
 The parts that are used in this project are;
 1. 1x Seeed XIAO RP2040 microcontroller.
 2. 16x through-hole 1N4148 Diodes.
